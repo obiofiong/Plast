@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Link } from "react-router-dom";
 import MobileNav from "./MobileNav";
 import { MenuIcon } from "@heroicons/react/solid";
 
@@ -17,7 +18,7 @@ function Navbar() {
 						className="absolute sm:hidden sm:relative sm:mr-4 h-7 text-blue-600 cursor-pointer top-2 left-2"
 						onClick={toggleMobileNav}
 					/>
-					<div className=" text-3xl cursor-pointer">Plast</div>
+					<Link className=" text-3xl cursor-pointer">Plast</Link>
 				</div>
 				<div className="sm:hidden">{openMobileNav && <MobileNav />}</div>
 				<div className="hidden sm:block">
