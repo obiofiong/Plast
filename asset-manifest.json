@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Plast/static/css/main.c14a2f96.chunk.css",
-    "main.js": "/Plast/static/js/main.2b339863.chunk.js",
-    "main.js.map": "/Plast/static/js/main.2b339863.chunk.js.map",
+    "main.css": "/Plast/static/css/main.e897869c.chunk.css",
+    "main.js": "/Plast/static/js/main.13d62d7b.chunk.js",
+    "main.js.map": "/Plast/static/js/main.13d62d7b.chunk.js.map",
     "runtime-main.js": "/Plast/static/js/runtime-main.6632611d.js",
     "runtime-main.js.map": "/Plast/static/js/runtime-main.6632611d.js.map",
     "static/js/2.47b72b26.chunk.js": "/Plast/static/js/2.47b72b26.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.9026de47.chunk.js": "/Plast/static/js/3.9026de47.chunk.js",
     "static/js/3.9026de47.chunk.js.map": "/Plast/static/js/3.9026de47.chunk.js.map",
     "index.html": "/Plast/index.html",
-    "static/css/main.c14a2f96.chunk.css.map": "/Plast/static/css/main.c14a2f96.chunk.css.map",
+    "static/css/main.e897869c.chunk.css.map": "/Plast/static/css/main.e897869c.chunk.css.map",
     "static/js/2.47b72b26.chunk.js.LICENSE.txt": "/Plast/static/js/2.47b72b26.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6632611d.js",
     "static/js/2.47b72b26.chunk.js",
-    "static/css/main.c14a2f96.chunk.css",
-    "static/js/main.2b339863.chunk.js"
+    "static/css/main.e897869c.chunk.css",
+    "static/js/main.13d62d7b.chunk.js"
   ]
 }
